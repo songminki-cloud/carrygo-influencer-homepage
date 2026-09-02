@@ -6,6 +6,9 @@ const nextConfig: NextConfig = {
   output: "export",
   basePath: isGithubPages ? "/carrygo-influencer-homepage" : undefined,
   assetPrefix: isGithubPages ? "/carrygo-influencer-homepage/" : undefined,
+  env: {
+    NEXT_PUBLIC_BASE_PATH: isGithubPages ? "/carrygo-influencer-homepage" : "",
+  },
   images: {
     unoptimized: true,
   },
