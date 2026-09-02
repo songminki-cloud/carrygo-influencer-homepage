@@ -23,6 +23,12 @@ npm run build
 npx serve out
 ```
 
+GitHub Pages build:
+
+```bash
+GITHUB_PAGES=true npm run build
+```
+
 ## Content
 
 Primary copy and outbound links live in:
