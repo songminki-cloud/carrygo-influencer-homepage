@@ -17,7 +17,7 @@ export const siteContent = {
     {
       label: "Instagram",
       handle: "@carrygoseoul",
-      href: "https://www.instagram.com/carrygoseoul/",
+      href: "https://instagram.com/carrygoseoul",
       note: "daily looks",
       icon: "camera",
       accent: "var(--coral)",
@@ -33,7 +33,7 @@ export const siteContent = {
     {
       label: "YouTube",
       handle: "CarryGo Seoul",
-      href: "https://www.youtube.com/",
+      href: "https://www.youtube.com/@carrygoseoul",
       note: "style shorts",
       icon: "play",
       accent: "var(--sky)",

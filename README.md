@@ -37,11 +37,11 @@ Primary copy and outbound links live in:
 
 Current link status:
 
-- Instagram: `https://www.instagram.com/carrygoseoul/`
+- Instagram: `https://instagram.com/carrygoseoul`
 - Pinterest: placeholder `https://www.pinterest.com/`
-- YouTube: placeholder `https://www.youtube.com/`
+- YouTube: `https://www.youtube.com/@carrygoseoul`
 
-Replace Pinterest and YouTube with the final account URLs before publishing.
+Replace Pinterest with the final account URL before publishing.
 
 ## Assets
 
