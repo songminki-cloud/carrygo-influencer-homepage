@@ -30,11 +30,17 @@ export default function Home() {
       </section>
 
       <footer className="footerline">
-        {siteContent.footerLinks.map((link) => (
-          <a href={link.href} key={link.label} rel="noopener noreferrer" target={link.href.startsWith("http") ? "_blank" : undefined}>
-            {link.label}
-          </a>
-        ))}
+        {siteContent.footerLinks.map((link) =>
+          link.href.startsWith("/") ? (
+            <Link href={link.href} key={link.label}>
+              {link.label}
+            </Link>
+          ) : (
+            <a href={link.href} key={link.label} rel="noopener noreferrer" target={link.href.startsWith("http") ? "_blank" : undefined}>
+              {link.label}
+            </a>
+          ),
+        )}
       </footer>
     </main>
   );

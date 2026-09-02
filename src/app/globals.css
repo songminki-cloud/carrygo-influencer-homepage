@@ -352,6 +352,58 @@ h1 {
   outline: none;
 }
 
+.privacy-shell {
+  overflow: visible;
+}
+
+.privacy-page {
+  max-width: 880px;
+  padding: clamp(52px, 7vw, 96px) 0 36px;
+}
+
+.privacy-page h1 {
+  max-width: 10ch;
+  font-size: clamp(60px, 9vw, 138px);
+}
+
+.privacy-page section {
+  max-width: 720px;
+  margin-top: 34px;
+  border-top: 1px solid rgba(255, 249, 237, 0.18);
+  padding-top: 22px;
+}
+
+.privacy-page h2 {
+  margin: 0 0 10px;
+  color: var(--acid);
+  font-size: clamp(15px, 1.4vw, 20px);
+  line-height: 1.1;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.privacy-page p {
+  margin: 0;
+  color: rgba(255, 249, 237, 0.74);
+  font-size: clamp(15px, 1.2vw, 18px);
+  line-height: 1.55;
+  font-weight: 650;
+}
+
+.privacy-page a {
+  color: var(--cream);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.privacy-updated {
+  margin-top: 34px;
+  color: rgba(255, 249, 237, 0.46);
+  font-size: 12px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
 @media (max-width: 980px) {
   .site-shell {
     min-height: 100svh;

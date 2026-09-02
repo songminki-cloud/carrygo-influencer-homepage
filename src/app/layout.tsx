@@ -14,13 +14,13 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://carrygoseoul.com"),
+  metadataBase: new URL("https://songminki-cloud.github.io/carrygo-influencer-homepage/"),
   title: "CarryGo | Carry wears Seoul",
   description: "CarryGo is an AI K-fashion curator linking Carry's Instagram, Pinterest, and YouTube feeds.",
   openGraph: {
     title: "CarryGo | Carry wears Seoul",
     description: "K-fashion looks, styled by Carry and published across Instagram, Pinterest, and YouTube.",
-    images: ["/images/carry-blue-tweed.png"],
+    images: ["/images/carry-cafe-mirror.jpg"],
   },
 };
 

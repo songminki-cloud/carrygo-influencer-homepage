@@ -63,8 +63,8 @@ export const siteContent = {
   ],
   footerLinks: [
     {
-      label: "Reference",
-      href: "https://github.com/nayandas69/linkinbio-nextjs",
+      label: "Privacy",
+      href: "/privacy/",
     },
     {
       label: "Contact",
