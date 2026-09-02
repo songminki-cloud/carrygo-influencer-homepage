@@ -41,9 +41,9 @@ export const siteContent = {
   ] satisfies SocialLink[],
   frames: [
     {
-      src: "/images/carry-blue-tweed.png",
-      alt: "Carry in a blue tweed dress inside a glass conservatory",
-      caption: "soft blue",
+      src: "/images/carry-cafe-mirror.jpg",
+      alt: "Carry taking a mirror selfie in a sunlit cafe",
+      caption: "cafe light",
     },
     {
       src: "/images/carry-white-ruffle.png",
