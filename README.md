@@ -37,7 +37,7 @@ Primary copy and outbound links live in:
 
 Current link status:
 
-- Instagram: `https://instagram.com/carrygoseoul`
+- Instagram: `https://www.instagram.com/carrygo.seoul/`
 - Pinterest: placeholder `https://www.pinterest.com/`
 - YouTube: `https://www.youtube.com/@carrygoseoul`
 

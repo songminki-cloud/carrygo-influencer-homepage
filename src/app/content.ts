@@ -16,8 +16,8 @@ export const siteContent = {
   socials: [
     {
       label: "Instagram",
-      handle: "@carrygoseoul",
-      href: "https://instagram.com/carrygoseoul",
+      handle: "@carrygo.seoul",
+      href: "https://www.instagram.com/carrygo.seoul/",
       note: "daily looks",
       icon: "camera",
       accent: "var(--coral)",
